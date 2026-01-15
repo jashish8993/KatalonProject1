@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11f0d5e2-78dd-442c-9b1b-d859d235a67d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>785da39f-450b-482e-be85-4f16dfc9052b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c29437e9-2dd8-4950-ac28-4bbb438fa803</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>785da39f-450b-482e-be85-4f16dfc9052b</id>
+      <masked>false</masked>
+      <name>Test1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c29437e9-2dd8-4950-ac28-4bbb438fa803</id>
+      <masked>false</masked>
+      <name>Test2</name>
+   </variable>
+</TestCaseEntity>

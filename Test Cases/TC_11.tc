@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Alerts</description>
+   <name>TC_11</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cca7d34a-203b-4791-8cee-e94732c17c49</testCaseGuid>
+</TestCaseEntity>
